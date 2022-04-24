@@ -1,4 +1,4 @@
-# Conformal prediction based Multi-class-probabilistic-classification using Conformal Prediction
+# Multi-class-probabilistic-classification using Venn-ABERS (Conformal) prediction
 
 (Preliminary documentation)
 
