@@ -1,4 +1,4 @@
-# Multi-class-probabilistic-classification using Venn-ABERS (Conformal) prediction
+# Multi-class probabilistic classification using Venn-ABERS (Conformal) prediction
 
 (Preliminary documentation)
 
