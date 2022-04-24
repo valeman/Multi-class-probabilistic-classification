@@ -1,4 +1,4 @@
-# Conformal prediction based Multi-class-probabilistic-classification
+# Conformal prediction based Multi-class-probabilistic-classification using Conformal Prediction
 
 (Preliminary documentation)
 
