@@ -6,9 +6,7 @@
 
 ![Brier loss wavefront dataset](https://github.com/valeman/Multi-class-probabilistic-classification/blob/main/results/wavefront%20brier%20loss.png)
 
-Implementation of multi-class probabilistic classification using inductive and cross Venn–Abers predictors described in [Multi-class probabilistic classification using inductive and cross Venn–Abers predictors](https://proceedings.mlr.press/v60/manokhin17a.html). 
-
-The code has been also released on [Papers with Code](https://paperswithcode.com/search?q_meta=&q_type=&q=Multi-class+probabilistic+classification+using+inductive+and+cross+Venn–Abers+predictors)
+Implementation of multi-class probabilistic classification using inductive and cross Venn–Abers predictors described in [Multi-class probabilistic classification using inductive and cross Venn–Abers predictors](https://proceedings.mlr.press/v60/manokhin17a.html). This code has also been released on [Papers with Code](https://paperswithcode.com/search?q_meta=&q_type=&q=Multi-class+probabilistic+classification+using+inductive+and+cross+Venn–Abers+predictors).
 
 The VennABERS.py file is a pure Python implementation of the fast Venn-ABERS Predictor for binary classification implemented in https://github.com/ptocca/VennABERS/ as published in NeurIPS paper [Large-scale probabilistic predictors with and without guarantees of validity](https://proceedings.neurips.cc/paper/2015/hash/a9a1d5317a33ae8cef33961c34144f84-Abstract.html)
 
