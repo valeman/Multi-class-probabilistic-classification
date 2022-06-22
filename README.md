@@ -1,8 +1,6 @@
 # Multi-class probabilistic classification using Venn-ABERS (Conformal) prediction
 
-[![DOI](https://zenodo.org/badge/458585236.svg)
-
-(Preliminary documentation)
+[![DOI](https://zenodo.org/badge/458585236.svg)](https://zenodo.org/badge/latestdoi/458585236)
 
 ![Log loss wavefront dataset](https://github.com/valeman/Multi-class-probabilistic-classification/blob/main/results/wavefront%20log%20loss.png)
 
