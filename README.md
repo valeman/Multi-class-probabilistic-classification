@@ -2,6 +2,18 @@
 
 [![DOI](https://zenodo.org/badge/458585236.svg)](https://zenodo.org/badge/latestdoi/458585236)
 
+Please cite the code - BIBTEX citation
+
+@misc{https://doi.org/10.5281/zenodo.6685149,
+  doi = {10.5281/ZENODO.6685149},
+  url = {https://zenodo.org/record/6685149},
+  author = {{Valeman}},
+  title = {valeman/Multi-class-probabilistic-classification: v0.1.0},
+  publisher = {Zenodo},
+  year = {2022},
+  copyright = {Open Access}
+}
+
 ![Log loss wavefront dataset](https://github.com/valeman/Multi-class-probabilistic-classification/blob/main/results/wavefront%20log%20loss.png)
 
 ![Brier loss wavefront dataset](https://github.com/valeman/Multi-class-probabilistic-classification/blob/main/results/wavefront%20brier%20loss.png)
