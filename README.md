@@ -1,6 +1,6 @@
 # Multi-class probabilistic classification using Venn-ABERS (Conformal) prediction
 
-[![DOI](https://zenodo.org/badge/458585236.svg)]((https://zenodo.org/badge/458585236.svg)
+[![DOI](https://zenodo.org/badge/458585236.svg)
 
 (Preliminary documentation)
 
